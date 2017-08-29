@@ -1,0 +1,21 @@
+{
+  "name": "Estibas_lib",
+  "keywords": "medida, estibas, sensor, ultrasonido, promedio, max, min",
+  "description": "Arduino Library for averaging 10 ultrasonic reads and clasify them)",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/esteban7590/Estibas_lib.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Esteban Rojas",
+      "email": "esteban7590@hotmail.com"
+    }
+  ],
+
+  "version": "1.0.0",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
